@@ -2,8 +2,8 @@
 
 $host     = "localhost";
 $user     = "root";
-$password = "Tuban12345";
-$database = "sik";
+$password = "Uban";
+$database = "asdf";
 
 $koneksi = mysqli_connect(
     $host,
